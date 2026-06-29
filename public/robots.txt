@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ais-pre-7xgaszz5iudj3guytnmrwx-929288901715.asia-east1.run.app/sitemap.xml
+Sitemap: https://premium-plant-nursery-sprouto-plant.vercel.app/sitemap.xml
