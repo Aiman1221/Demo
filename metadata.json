@@ -1,0 +1,6 @@
+{
+  "name": "Sprouto Plant Store",
+  "description": "Modern e-commerce platform for plants with functional cart and premium UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
